@@ -1,6 +1,6 @@
 @echo off
 title BRC v. 1.0 [ALPHA]
-echo Bing Point-Catcher Version 1.0 [ALPHA]
+echo Bing Reward-Catcher Version 1.0 [ALPHA]
 echo.
 echo Um abzubrechen, schliesse das Fenster! Um Fortzufahren, druecke eine beliebige Taste!
 pause
@@ -32,15 +32,15 @@ goto b
 start https://www.bing.com/search?q=Stephen+Hawking&go=Suche&qs=ds&form=QBRE
 start https://www.bing.com/search?q=Angela+Merkel&go=Suche&qs=ds&form=QBRE
 start https://www.bing.com/search?q=Cupcakes&go=Suche&qs=ds&form=QBRE
-start https://www.bing.com/search?q=Fuﬂball&go=Suche&qs=ds&form=QBRE
+start https://www.bing.com/search?q=Fu√üball&go=Suche&qs=ds&form=QBRE
 start https://www.bing.com/search?q=American+Football&go=Suche&qs=ds&form=QBRE
 start https://www.bing.com/search?q=Deutschland&go=Suche&qs=ds&form=QBRE
-start https://www.bing.com/search?q=÷sterreich&go=Suche&qs=ds&form=QBRE
+start https://www.bing.com/search?q=√ñsterreich&go=Suche&qs=ds&form=QBRE
 start https://www.bing.com/search?q=Schweiz&go=Suche&qs=ds&form=QBRE
 start https://www.bing.com/search?q=Schweden&go=Suche&qs=ds&form=QBRE
 start https://www.bing.com/search?q=Norwegen&go=Suche&qs=ds&form=QBRE
 start https://www.bing.com/search?q=Finnland&go=Suche&qs=ds&form=QBRE
-start https://www.bing.com/search?q=D‰nemark&go=Suche&qs=ds&form=QBRE
+start https://www.bing.com/search?q=D√§nemark&go=Suche&qs=ds&form=QBRE
 start https://www.bing.com/search?q=Polen&go=Suche&qs=ds&form=QBRE
 start https://www.bing.com/search?q=Frankreich&go=Suche&qs=ds&form=QBRE
 start https://www.bing.com/search?q=Liechtenstein&go=Suche&qs=ds&form=QBRE
@@ -51,15 +51,15 @@ cls
 goto c
 :c
 start https://www.bing.com/search?q=Italien&go=Suche&qs=ds&form=QBRE
-start https://www.bing.com/search?q=Vereinigtes+Kˆnigeich&go=Suche&qs=ds&form=QBRE
+start https://www.bing.com/search?q=Vereinigtes+K√∂nigeich&go=Suche&qs=ds&form=QBRE
 start https://www.bing.com/search?q=Irland&go=Suche&qs=ds&form=QBRE
 start https://www.bing.com/search?q=Tschechische+Republik&go=Suche&qs=ds&form=QBRE
-start https://www.bing.com/search?q=Rum‰nien&go=Suche&qs=ds&form=QBRE
-start https://www.bing.com/search?q=Weiﬂrussland&go=Suche&qs=ds&form=QBRE
+start https://www.bing.com/search?q=Rum√§nien&go=Suche&qs=ds&form=QBRE
+start https://www.bing.com/search?q=Wei√ürussland&go=Suche&qs=ds&form=QBRE
 start https://www.bing.com/search?q=Estland&go=Suche&qs=ds&form=QBRE
 start https://www.bing.com/search?q=Lettland&go=Suche&qs=ds&form=QBRE
 start https://www.bing.com/search?q=Kroatien&go=Suche&qs=ds&form=QBRE
-start https://www.bing.com/search?q=T¸rkei&go=Suche&qs=ds&form=QBRE
+start https://www.bing.com/search?q=T√ºrkei&go=Suche&qs=ds&form=QBRE
 start https://www.bing.com/search?q=Spanien&go=Suche&qs=ds&form=QBRE
 start https://www.bing.com/search?q=Portugal&go=Suche&qs=ds&form=QBRE
 start https://www.bing.com/search?q=Russland&go=Suche&qs=ds&form=QBRE
