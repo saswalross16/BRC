@@ -1,2 +1,0 @@
-# BRC
-Bing Reward-Catcher
